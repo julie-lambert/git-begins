@@ -1,2 +1,21 @@
-gg
-gggg
+Commande pour cloner un repo:
+
+- git clone
+
+Les 3 commandes push:
+
+- git add 
+- git commit -m 
+- git push -u origin
+
+Commande pull: Rapatrier et intégrer un autre dépôt ou une branche locale
+
+- git pull
+
+Commande pour créer une branche:
+
+- git branch
+
+Commande pour switcher de branche:
+
+- git checkout 
